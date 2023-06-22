@@ -476,7 +476,7 @@
     }
 
     .slide img{
-        width: 500px;
+        width: 400px;
         height: 500px;
     }
 
@@ -521,8 +521,8 @@
 
     .slider{
         position: absolute;
-        right: -1%;
-        width: 500px;
+        right: -0%;
+        width: 400px;
         height: 500px;
     }
 }
